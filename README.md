@@ -3,4 +3,4 @@
 Project made for learning JS
 
 ## DEMO 
-[Play](qbogdan.github.io/pair-game)
+[Play](http://qbogdan.github.io/pair-game)
